@@ -61,21 +61,6 @@ Currently, I am improving my skills in modern web development, open-source contr
 
 ---
 
-## 🚀 What I’m Currently Working On
 
-- Improving my full-stack development skills through practical projects  
-- Building healthcare-focused and e-commerce-based software solutions  
-- Learning better software architecture and system design practices  
-- Exploring open-source contribution and collaborative development  
-- Enhancing my GitHub portfolio with professional project documentation  
-
----
-
-## 📌 Featured Areas of Interest
-
-```txt
-Full-Stack Development     ████████████████████
-UI/UX Design               ████████████████░░░░
-Database Design            █████████████████░░░
-System Design              ███████████████░░░░░
-Open Source                ████████████░░░░░░░░
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lochithya&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" height="170" /> <img src="https://streak-stats.demolab.com?user=Lochithya&theme=tokyonight&hide_border=true" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lochithya&theme=tokyonight&hide_border=true&layout=compact" height="170" /> </div>
