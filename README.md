@@ -35,45 +35,34 @@ I completed my school education at **St. Benedict’s College, Colombo 13**. Cur
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Programming Languages
+### Programming Languages  
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Frontend Development
+### Frontend Development  
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-</td>
-<td width="50%" valign="top">
-
-### Backend Development
+### Backend Development  
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
 
-### Databases
+### Databases  
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools & Platforms
+### Tools & Platforms  
 
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -81,22 +70,11 @@ I completed my school education at **St. Benedict’s College, Colombo 13**. Cur
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
+<img src="https://streak-stats.demolab.com?user=Lochithya&theme=tokyonight&hide_border=true" alt="Lochithya's GitHub Streak" width="60%" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lochithya&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" alt="Lochithya's GitHub Stats" />
+<br><br>
 
-</td>
-<td align="center" width="50%">
-
-<img src="https://streak-stats.demolab.com?user=Lochithya&theme=tokyonight&hide_border=true" alt="Lochithya's GitHub Streak" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lochithya&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lochithya&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="45%" />
 
 </div>
 
@@ -104,13 +82,11 @@ I completed my school education at **St. Benedict’s College, Colombo 13**. Cur
 
 ## 🌐 Connect With Me
 
-<div align="center">
+I am always open to connecting with fellow developers, collaborators, and professionals in the software engineering field.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Lochithya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lochithya)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lochithya%20Hettiarachchi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lochithya-hettiarachchi)
-[![Email](https://img.shields.io/badge/Email-lochithya12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lochithya12@gmail.com)
-
-</div>
+- **GitHub:** [github.com/Lochithya](https://github.com/Lochithya)  
+- **LinkedIn:** [linkedin.com/in/lochithya-hettiarachchi](https://www.linkedin.com/in/lochithya-hettiarachchi)  
+- **Email:** [lochithya12@gmail.com](mailto:lochithya12@gmail.com)
 
 ---
 
