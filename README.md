@@ -74,8 +74,6 @@ I completed my school education at **St. Benedict’s College, Colombo 13**. Cur
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lochithya&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="45%" />
-
 </div>
 
 ---
