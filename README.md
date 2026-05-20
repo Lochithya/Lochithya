@@ -35,8 +35,6 @@ I completed my school education at **St. Benedict’s College, Colombo 13**. Cur
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 ### 💻 Programming Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -80,8 +78,6 @@ I completed my school education at **St. Benedict’s College, Colombo 13**. Cur
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
 
 ---
 
