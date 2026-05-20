@@ -35,8 +35,6 @@ I completed my school education at **St. Benedict’s College, Colombo 13**. Cur
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 <div align="center">
 
 ### 💻 Programming Languages
